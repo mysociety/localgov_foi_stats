@@ -1,0 +1,12 @@
+question,na,all,percentage avaliable
+1 What period do you record FOI statistics in? Financial Year/Calendar Year/Other?,6,351,98.29
+2 How many FOI requests have you received?,6,351,98.29
+3 The number of requests where the information was granted?,96,351,72.65
+4 The number of requests where the information was entirely withheld (no information provided)?,104,351,70.37
+"5 The number of requests where the information was partially withheld (some, but not all information requested, provided)?",124,351,64.67
+6 How many requests were completed inside the statutory deadline?,31,351,91.17
+7 How many requests were appealed to internal review?,50,351,85.75
+8 How many decisions were upheld at internal review?,71,351,79.77
+9 How many FOI decisions have been appealed to the ICO?,51,351,85.47
+10 How many decisions were upheld by the ICO?,57,351,83.76
+11 How many vexatious requests were received?,69,351,80.34

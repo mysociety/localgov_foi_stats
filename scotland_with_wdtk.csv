@@ -1,0 +1,30 @@
+authority_id,licensing_board,council name,Region,relevant,Sector,eir+foi,wdtk_council_id,wdtk_licensing_id,all,foi,eir,granted,in_time,ir,ir_original_upheld,vex,ico,ico_original_upheld,wdtk_count,wdtk_calendar,wdtk_count_prior,wdtk_calendar_prior,wdtk_id
+2,,Aberdeen City Council,Grampian,1,Local Government,1955,39,,1955,1392,563,781,1659,28,11,0,-,-,95,95,590,590,39
+5,Aberdeenshire Licensing Board,Aberdeenshire Council,Grampian,1,Local Government,1727,40,5638,1727,1707,20,1389,1661,10,7,2,-,-,76,76,486,486,40
+9,,Angus Council,Tayside,1,Local Government,1404,45,,1404,1345,59,726,941,9,4,1,-,-,54,54,274,274,45
+12,,Argyll and Bute Council,Strathclyde,1,Local Government,1372,48,,1372,1230,142,993,1317,41,33,0,-,-,56,56,306,306,48
+45,,City of Edinburgh Council,Lothian and Borders,1,Local Government,2680,185,,2680,1688,992,1205,2408,140,68,0,-,-,131,131,1347,1347,185
+47,Clackmannanshire Licensing Board,Clackmannanshire Council,Central,1,Local Government,1147,130,5656,1147,1146,1,1060,1052,7,3,0,-,-,46,46,354,354,130
+56,,Dumfries and Galloway Council,Dumfries and Galloway,1,Local Government,1323,162,,1323,1231,92,667,1181,12,6,0,-,-,69,69,325,325,162
+60,Dundee City Licensing Board,Dundee City Council,Tayside,1,Local Government,1584,163,5676,1584,1224,360,1115,1272,18,6,0,-,-,61,61,321,321,163
+63,,East Ayrshire Council,Ayrshire,1,Local Government,1254,168,,1254,1143,111,928,1245,4,3,0,-,-,43,43,281,281,168
+67,,East Lothian Council,Lothian and Borders,1,Local Government,1425,176,,1425,1291,134,711,1135,20,11,0,-,-,41,41,246,246,176
+69,East Renfrewshire Licensing Board,East Renfrewshire Council,Strathclyde,1,Local Government,1241,178,5679,1241,966,275,885,1029,16,5,1,-,-,51,51,342,342,178
+71,,Falkirk Council,Central,1,Local Government,1515,191,,1515,1370,145,1141,1332,15,9,1,-,-,53,53,353,353,191
+73,Fife Licensing Board,Fife Council,Fife,1,Local Government,2519,603,5682,2519,2006,513,1506,2074,61,19,0,-,-,93,93,698,698,603
+82,,Glasgow City Council,Strathclyde,1,Local Government,3112,197,,3112,2897,215,955,2642,164,64,2,-,-,119,119,823,823,197
+95,Highland Licensing Board,Highland Council,Highland and Islands,1,Local Government,1745,613,5695,1745,1328,417,1316,1211,43,21,0,-,-,66,66,363,363,613
+100,,Inverclyde Council,Strathclyde,1,Local Government,1281,616,,1280,1264,16,-,1075,28,23,1,-,-,45,45,247,247,616
+119,,Midlothian Council,Lothian and Borders,1,Local Government,1226,265,,1226,1203,23,1145,1075,1,1,0,-,-,37,37,248,248,265
+122,Moray Licensing Board,Moray Council,Grampian,1,Local Government,1259,269,5635,1259,1231,28,837,1213,23,17,2,-,-,38,38,221,221,269
+131,North Ayrshire Licensing Board,North Ayrshire Council,Ayrshire,1,Local Government,1475,624,5634,1475,1399,76,878,1194,15,8,0,-,-,45,45,292,292,624
+135,North Lanarkshire Licensing Board,North Lanarkshire Council,Strathclyde,1,Local Government,1539,281,5711,1539,1318,221,621,1515,18,7,0,-,-,61,61,399,399,281
+145,Perth and Kinross Licensing Board,Perth and Kinross Council,Tayside,1,Local Government,1575,302,5632,1575,1377,198,646,1524,24,12,0,-,-,37,37,302,302,302
+155,,Renfrewshire Council,Strathclyde,1,Local Government,1426,315,,1426,1391,35,1171,1455,17,7,0,-,-,61,61,315,315,315
+167,Scottish Borders Licensing Board,Scottish Borders Council,Lothian and Borders,1,Local Government,1303,636,5629,1303,822,481,706,1186,34,17,1,-,-,40,40,267,267,636
+191,Shetland Islands Licensing Board,Shetland Islands Council,Highland and Islands,1,Local Government,1147,339,5628,1147,1105,42,995,1077,4,2,1,-,-,55,55,202,202,339
+194,South Ayrshire Licensing Board,South Ayrshire Council,Ayrshire,1,Local Government,1433,345,5627,1433,1046,387,1158,1299,2,0,0,-,-,44,44,248,248,345
+197,,South Lanarkshire Council,Strathclyde,1,Local Government,1590,354,,1590,1348,242,851,1535,30,7,1,-,-,53,53,387,387,354
+202,Stirling Licensing Board,Stirling Council,Central,1,Local Government,1313,374,5625,1313,1313,0,726,1216,21,4,0,-,-,51,51,331,331,374
+228,West Dunbartonshire Licensing Board,West Dunbartonshire Council,Strathclyde,1,Local Government,1219,428,5658,1219,1219,0,0,1111,16,0,0,-,-,52,52,295,295,428
+231,,West Lothian Council,Lothian and Borders,1,Local Government,1361,430,,1361,1338,23,1061,1229,19,7,0,-,-,47,47,307,307,430
