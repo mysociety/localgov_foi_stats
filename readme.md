@@ -1,4 +1,4 @@
-# Local Government Statistics 2017
+# Local Government Statistics 2019
  
 Data release to accompany 2019 research report [Freedom of Information in Local Government](https://research.mysociety.org/publications/freedom-information-local-government).
 
