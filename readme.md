@@ -5,3 +5,7 @@ Data release to accompany 2019 research report [Freedom of Information in Local 
 These CSVs contain the collective information obtained via FOI (on [WhatDoTheyKnow.com](https://www.whatdotheyknow.com)) on FOI statistics and administration of local authorities in the UK. 
 
 Each entry has a link to the relevant FOI - where examining individual examples it's best to refer back to the original FOI in case of transcription errors.
+
+# Licence
+
+Unless otherwise stated, datasets are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
